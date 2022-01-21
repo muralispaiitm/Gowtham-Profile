@@ -70,10 +70,6 @@ Classification Problems
 - Back Order Prediction
 - Thyroid Detection
 
-Internship Projects
-- Student Dropout
-- Auto Essay Grading
-
 
 **My Digital Garden 🌱** [give some ♥]
 --------------------------------------------
