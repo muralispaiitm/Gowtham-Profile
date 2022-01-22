@@ -56,7 +56,7 @@ Regression Problems
 Classification Problems
 - IRIS Flowers Prediction
 - Fake News Prediction
-- Hiring Prediction and Deploying in Heroku using FLASK
+- Hiring Prediction
 - IPL Prediction
 - Wafers Fault Detection
 - Back Order Prediction
